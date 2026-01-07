@@ -1,6 +1,6 @@
 ## Apps Demo:
 
-<img width="500" src="https://github.com/user-attachments/assets/4af21254-fad9-4869-9839-2b39909af50a" />
+<img width="250" src="https://github.com/user-attachments/assets/4af21254-fad9-4869-9839-2b39909af50a" />
 
 
 ![Screenshot_20220830-110715_DelPhiniuM](https://)
