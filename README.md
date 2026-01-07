@@ -1,6 +1,6 @@
 ## Apps Demo:
 
-<img width="200" src="https://github.com/user-attachments/assets/4af21254-fad9-4869-9839-2b39909af50a" />
+<img width="150" src="https://github.com/user-attachments/assets/4af21254-fad9-4869-9839-2b39909af50a" />
 
 
 
