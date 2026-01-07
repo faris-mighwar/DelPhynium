@@ -1,9 +1,8 @@
 ## Apps Demo:
 
-<img width="250" src="https://github.com/user-attachments/assets/4af21254-fad9-4869-9839-2b39909af50a" />
+<img width="200" src="https://github.com/user-attachments/assets/4af21254-fad9-4869-9839-2b39909af50a" />
 
 
-![Screenshot_20220830-110715_DelPhiniuM](https://)
 
 ![Screenshot_20220830-110718_DelPhiniuM](https://github.com/user-attachments/assets/5c263391-aaf9-4097-9dbd-f1768f690ac2)
 
